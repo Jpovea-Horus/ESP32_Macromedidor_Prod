@@ -1,4 +1,4 @@
-# Sistema de consulta para Macromedidor portocolo Modbus / prod
+# Sistema de consulta para Macromedidor portocolo Modbus / new version
 codigo creado en arduino para realizar las consultas de  medidores que usen el protocolo de comunicacion Modbus, este codigo posee lo siguiente 
 
 ## Indice
